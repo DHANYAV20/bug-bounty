@@ -1,0 +1,14 @@
+client - side vulnerability
+memory leaks
+lfi
+rce
+buffer overflow
+xss
+idor
+
+server - side vuln 
+sqli
+server side rce
+broken object level authorization
+insecure api endpoints
+authentications and autorization flaws
