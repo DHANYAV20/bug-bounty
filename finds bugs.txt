@@ -1,0 +1,8 @@
+Add the file `wp-config.php.txt` to your wordlist, and you might discover some juicy data. Enjoy! 
+add in the url will get db name, user, password 
+**************
+Add the file appsettings.jsont to your wordlist, and you might discover some juicy data. Enjoy!
+
+
+
+
