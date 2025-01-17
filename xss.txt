@@ -1,5 +1,5 @@
 <input type=hidden oncontentvisibilityautostatechange​=alert(1) style=content-visibility:auto>
 Note: This JS event is only supported in Chromium.
 
-https://github.com/faiyazahmad07/xss_vibes
-and katana 
+https://github.com/faiyazahmad07/xss_vibes - not verified 
+and katana     -  not verified
